@@ -1,0 +1,1 @@
+const note = document.addEventListener()
